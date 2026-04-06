@@ -8,9 +8,6 @@ The system processes raw text documents, identifies important concepts using TF-
 ## Methodology
 (how you used TF-IDF, NetworkX, etc.)
 
-## Knowledge Graph Visualization
-![Knowledge Graph](knowledge_graph.png)
-
 ---
 
 ## Objectives
