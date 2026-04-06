@@ -4,6 +4,12 @@
 This project focuses on building a **Knowledge Graph** from unstructured educational text data. The goal is to extract key concepts and model relationships between them using Python.
 
 The system processes raw text documents, identifies important concepts using TF-IDF, and constructs a graph that visually represents how these concepts are connected.
+---
+## Methodology
+(how you used TF-IDF, NetworkX, etc.)
+
+## Knowledge Graph Visualization
+![Knowledge Graph](knowledge_graph.png)
 
 ---
 
@@ -61,6 +67,14 @@ Documents are split into sentences for relationship detection.
 ---
 
 ## Results
+
+## Project Structure
+- data/ → dataset files  
+- knowledge_graph.ipynb → main notebook  
+- knowledge_graph.png → output visualization  
+- README.md → project documentation
+
+---
 
 ### Knowledge Graph
 - "Machine Learning" appears as the central concept
