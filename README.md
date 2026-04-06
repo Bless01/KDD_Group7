@@ -89,6 +89,12 @@ Documents are split into sentences for relationship detection.
 
 ## How to Run the Project
 
-1. Install dependencies:
+Follow these steps to run the project locally:
+
 ```bash
+1. Install dependencies:
 pip install networkx matplotlib scikit-learn pandas
+
+2. Open Jupyter Notebook or JupyterLab
+3. Open knowledge_graph.ipynb
+4. Run all cells to generate the knowledge graph and visualizations
