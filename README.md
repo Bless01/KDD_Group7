@@ -5,6 +5,11 @@ This project focuses on building a **Knowledge Graph** from unstructured educati
 
 The system processes raw text documents, identifies important concepts using TF-IDF, and constructs a graph that visually represents how these concepts are connected.
 ---
+### Run Online (No Setup Required)
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bless01/KDD_Group7/blob/main/knowledge_graph.ipynb)
+
+---
 ## Methodology
 (how you used TF-IDF, NetworkX, etc.)
 
