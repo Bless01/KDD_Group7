@@ -11,7 +11,16 @@ The system processes raw text documents, identifies important concepts using TF-
 
 ---
 ## Methodology
-(how you used TF-IDF, NetworkX, etc.)
+The project follows a structured pipeline:
+
+1. **Text Preprocessing**  
+   Raw text is cleaned...
+
+2. **Sentence Segmentation**  
+   Text is split into sentences...
+
+3. **Concept Extraction (TF-IDF)**  
+   Important terms are extracted...
 
 ---
 
