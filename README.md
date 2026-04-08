@@ -11,16 +11,26 @@ The system processes raw text documents, identifies important concepts using TF-
 
 ---
 ## Methodology
-The project follows a structured pipeline:
-
 1. **Text Preprocessing**  
-   Raw text is cleaned...
+   Clean text by lowercasing and removing noise.
 
-2. **Sentence Segmentation**  
-   Text is split into sentences...
+1. **Sentence Segmentation**  
+   Split text into sentences to capture context.
 
-3. **Concept Extraction (TF-IDF)**  
-   Important terms are extracted...
+1. **Concept Extraction (TF-IDF)**  
+   Extract key terms and bigrams based on importance.
+
+1. **Concept Cleaning**  
+   Remove irrelevant or inconsistent terms.
+
+1. **Relationship Identification**  
+   Link concepts appearing in the same sentence.
+
+1. **Graph Construction (NetworkX)**  
+   Build a graph where nodes are concepts and edges show relationships.
+
+1. **Visualization**  
+   Display the graph with node importance and connections.
 
 ---
 
