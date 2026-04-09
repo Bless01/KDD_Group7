@@ -7,8 +7,7 @@ The system processes raw text documents, identifies important concepts using TF-
 ---
 ### Run Online (No Setup Required)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bless01/KDD_Group7/blob/main/knowledge_graph.ipynb)
-
+[Open in Colab](https://colab.research.google.com/github/Bless01/KDD_Group7/blob/main/project_knowledge_graph.ipynb)
 ---
 ## Methodology
 1. **Text Preprocessing**  
