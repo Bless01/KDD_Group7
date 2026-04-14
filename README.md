@@ -65,7 +65,7 @@ Documents are split into sentences for relationship detection.
 
 ### 4. Concept Extraction (TF-IDF)
 - Bigrams are extracted (e.g., "machine learning")
-- Top concepts are selected based on importance
+- Top concepts are selected based on importance.
 
 ### 5. Concept Cleaning
 - Fix inconsistent terms (e.g., "science computer" → "computer science")
